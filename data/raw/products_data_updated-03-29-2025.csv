@@ -1,0 +1,9 @@
+ProductID,ProductName,Category,UnitPrice,StockQuanity,Supplier
+101,laptop,Electronics,793.12,10,TechNova Supplies
+102,hoodie,Clothing,39.1,101,UrbanWear Distributors
+103,cable,Electronics,22.76,52,ElectroLink Wholesale
+104,hat,Clothing,43.1,36,HeadStyle Apparel
+105,football,Sports,19.78,22,ProPlay Sporting Goods
+106,controller,Electronics,88.98,115,GamerZone Electronics
+107,jacket,Clothing,67.02,32,FashionEdge Suppliers
+108,protector,Electronics,12.56,10,ShieldTech Accessories
